@@ -1,80 +1,99 @@
 # 👋 Hi, I’m Kaarel (aka KJ)
 
-🎓 **Software Engineering student @ TalTech (Tallinn University of Technology)**  
-💻 Aspiring **full-stack developer** with a strong focus on clean architecture, databases, and practical problem-solving.
+⚡ **SCADA Team Lead by day**  
+🎓 **Software Engineering student @ TalTech by night**
+
+I work with real industrial systems where **availability, data integrity, and delivery matter** — and I study software engineering to sharpen architecture, backend design, and long-term maintainability.
 
 ---
 
-## 🚀 About Me
+## 🧭 Professional Focus
 
-I enjoy turning real-world problems into structured, working software.  
-Most of my projects come from **university coursework**, where I focus on:
+I combine **hands-on engineering** with **leadership and delivery ownership**.
 
-- solid **architecture decisions**
-- clear **domain modeling**
-- readable, maintainable code
-- learning *why* things work — not just *how*
+By day, I operate in environments where:
+- systems are live
+- data must be trustworthy
+- stakeholders need clear answers
+- deadlines are real
 
-I’m currently building experience across **backend, web, and data-centric applications**, often under exam-style constraints where prioritization matters.
+By night, I focus on building **clean, structured software**, mostly through university projects and focused experiments.
 
 ---
 
-## 🧠 Tech Interests & Skills
+## 🛠️ Technical Stack
 
-**Languages & Platforms**
-- C# (.NET, Razor Pages)
-- Java (OOP, Streams, persistence)
-- Python
+**Backend & APIs**
+- **Java REST APIs** (JAX-RS / Spring-style architecture)
+- C# / .NET (Razor Pages, layered apps)
+- Python (automation, tooling)
+
+**Data & Persistence**
 - SQL (SQLite, PostgreSQL)
+- Database modeling, normalization, ERDs
+- ORM usage (EF Core, JPA concepts)
 
-**Key Topics**
-- Object-Oriented Programming (OOP)
-- Layered architecture (DAL / BLL / UI)
-- CRUD applications & validation
-- Databases, normalization, ERDs
-- Entity Framework Core
-- REST basics & API integration
-- Git & version control
+**Engineering Practices**
+- Layered architecture (DAL / BLL / API / UI)
+- Validation & error handling
+- CRUD systems built for clarity
+- MVP-first delivery under time constraints
+- Git-based workflows
 
 ---
 
-## 🌱 Currently Learning
+## 🧠 Strengths Beyond Code
 
-- Advanced **C# / .NET** patterns  
-- **Java** for backend and data processing  
-- Better **full-stack workflows** (data → logic → UI)
-- Writing clearer technical documentation (README, specs, reports)
+I bring **team-lead / project-manager thinking** into engineering work:
+
+- 📋 **Project planning & prioritization**
+- 🚀 **Delivery ownership** (from idea → working solution)
+- 🧩 **Analytical problem solving**
+- 🗣️ **User & stakeholder interviews**
+- 🧠 Translating business or operational needs into technical solutions
+- 📖 Clear technical documentation
+
+This mindset strongly influences how I structure APIs, databases, and application layers.
+
+---
+
+## 🌱 Currently Developing
+
+- Advanced **Java backend & REST API design**
+- Cleaner **API contracts and data models**
+- Bridging **industrial systems** with modern software architecture
+- Improving communication between technical and non-technical stakeholders
 
 ---
 
 ## 🤝 Collaboration
 
-I’m open to:
-- small but **well-defined projects**
-- learning-oriented collaborations
-- projects where **code quality and structure matter**
+Interested in:
+- backend or API-driven projects
+- systems with real constraints and users
+- teams that value **thinking, planning, and delivery** — not just writing code
 
-If it’s interesting and helps me grow — I’m in.
-
----
-
-## 🎸 Outside of Code
-
-- 🎵 Playing **guitar**
-- 🎮 PC games
-- 🌊 **Kitesurfing & wingfoiling**
-- Enjoying tech that meets real life
+If you need someone who can both **build** and **lead**, let’s talk.
 
 ---
 
-## 📫 Get in Touch
+## 🎸 Outside Work
 
-- 📧 Email: **kaarel.j@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/kaarelj](https://www.linkedin.com/in/kaarelj)
+- 🎵 Guitar
+- 🎮 PC gaming
+- 🌊 Kitesurfing & wingfoiling
 
 ---
 
-> Most repos here reflect **university projects, learning experiments, and incremental improvement**.
+## 📫 Contact
+
+- 📧 **kaarel.j@gmail.com**
+- 💼 [linkedin.com/in/kaarelj](https://www.linkedin.com/in/kaarelj)
+
+---
+
+> ⚙️ This profile repository represents my learning journey,  
+> blending **industrial responsibility**, **academic engineering**, and **delivery-focused thinking**.
 
 <!---
 KrlJrvts/KrlJrvts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
